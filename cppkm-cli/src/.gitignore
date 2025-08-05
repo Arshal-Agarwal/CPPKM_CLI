@@ -1,0 +1,5 @@
+build/
+*.exe
+*.out
+*.o
+cppkm.toml.lock
